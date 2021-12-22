@@ -1,0 +1,28 @@
+
+
+//Truthy e Falsy
+
+//falsy:
+
+undefined
+null
+NaN
+0
+-0
+" "
+''
+
+//Truthy
+//todos os outros
+{}
+[]
+
+// para verificar se o valor é Truthy e Falsy usar !! 2x
+
+!!"" //retorna true
+!!0 //retorna false
+!![] //retorna true
+
+//TERNARIO
+
+// condicao ? true : false
